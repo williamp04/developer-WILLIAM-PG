@@ -1,15 +1,15 @@
 # [William Alexander Pinto Gonzalez](https://williamp04.github.io/developer-WILLIAM-PG/)
 
-[![William Alexander Pinto Gonzalez](https://i.postimg.cc/fbMRVXsH/kierrez-zer-my-nobia.png)](https://elliotgaramendi.github.io/kierrez-zer-my-nobia/)
+[![William Alexander Pinto Gonzalez](https://i.postimg.cc/xjPd5vhr/imagen-2023-05-08-085106395.png)](https://elliotgaramendi.github.io/kierrez-zer-my-nobia/)
 
 ## 📜 Resumen 📜
-Web para declararte a tu Crush. Aprende a desarrollar una página web y publícalo en internet para que lo puedas compartir con esa persona que mucho te dice que no.
+Un estudiante de programación con un amor por la tecnología, Cuya pasión por la codificación es verdaderamente eléctrica, Y en el mundo de los juegos, reinan como majestuosos. 
 
 ## 💻 Instalación 💻
 - Ubicarse en la carpeta que contendrá el proyecto
 - Abrir terminal de comandos
-  - git clone https://github.com/elliotgaramendi/kierrez-zer-my-nobia.git
-  - cd kierrez-zer-my-nobia
+  - git clone https://github.com/williamp04/developer-WILLIAM-PG/deployments/activity_log?environment=github-pages
+  - cd developer-WILLIAM-PG
   - Levantar la web en un servidor y disfrutar
 
 ## 👨‍💻 Tecnologías usadas 👨‍💻
@@ -17,10 +17,10 @@ Web para declararte a tu Crush. Aprende a desarrollar una página web y publíca
 |------------|---------|---------------------------------------------------------------------------------|
 | HTML       | 5       | Lenguaje de Marcas que define el significado y la estructura del contenido web. |
 | CSS        | 3       | Lenguaje de estilos utilizado para describir la presentación de documentos.     |
-| JavaScript | ES 2021 | Lenguaje de programación ligero, interpretado, o compilado justo-a-tiempo.      |
+
 
 ## 🤗 Redes sociales 🤗
-- 🐭 YouTube: https://www.youtube.com/@elliotgaramendi 🐭
-- 🐭 GitHub: https://github.com/elliotgaramendi 🐭
-- 🐭 LinkedIn: https://www.linkedin.com/in/elliotgaramendi/ 🐭
-- 🐭 Instagram: https://www.instagram.com/elliotgaramendi/ 🐭
+- 🐭 facebook: https://www.facebook.com/william.pinto.749?mibextid=ZbWKwL 🐭
+- 🐭 GitHub: https://github.com/ 🐭
+- 🐭 tiktok: https://www.tiktok.com/@williamp_16?_t=8c3IPH1xRsk&_r=1 🐭
+- 🐭 Instagram: https://instagram.com/williamp_16?igshid=ZDdkNTZiNTM= 🐭
