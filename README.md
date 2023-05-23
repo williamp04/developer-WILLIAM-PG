@@ -1,6 +1,6 @@
 # [William Alexander Pinto Gonzalez](https://williamp04.github.io/developer-WILLIAM-PG/)
 
-[![William Alexander Pinto Gonzalez](https://i.postimg.cc/xjPd5vhr/imagen-2023-05-08-085106395.png)](https://elliotgaramendi.github.io/kierrez-zer-my-nobia/)
+[![William Alexander Pinto Gonzalez](https://i.postimg.cc/xjPd5vhr/imagen-2023-05-08-085106395.png)](https://williamp04.github.io/developer-WILLIAM-PG/)
 
 ## 📜 Resumen 📜
 Un estudiante de programación con un amor por la tecnología, Cuya pasión por la codificación es verdaderamente eléctrica, Y en el mundo de los juegos, reinan como majestuosos. 
