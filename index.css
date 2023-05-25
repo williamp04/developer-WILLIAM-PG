@@ -95,24 +95,26 @@
 }
 
 .card__footer-nav-item {
-   
+
     display: flex;
 }
 
 .card__footer-nav-link {
-    width: 2rem;
-    height: 2rem;
-    transition: transform 0.25s;
-}
 
-.card__footer-nav-link-hover {
+    height: 2rem;
+    transition: transform 0.25;
+}
+.card__footer-nav-link:hover{
     transform: scale(1.25);
+
 }
 
 .card__footer-nav-img {
     width: 100%;
     height: 100%;
 }
+
+
 
 @media (min-width: 854px){
     .card{
